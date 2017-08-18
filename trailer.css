@@ -1,0 +1,55 @@
+body {
+  background:url('http://wallpapersfr.com/wp-content/uploads/2015/04/website-patterns-free-download-250x210.jpg'); 
+}
+.heading {
+   text-align: center;
+   background: url('http://www.incomeactivator.com/images/freebg5.jpg');
+   margin-top: 0px;
+   border: 1px solid red;
+   text-decoration: overline red;
+   position: relative;
+   box-shadow: 10px 10px 5px red; 
+}
+
+h1 {
+	color: #cccccc;
+    font-size: 80px;
+}
+
+.heading:hover {
+	box-shadow: 10px 10px 5px #cccccc;
+  text-decoration:line-through;
+  cursor: pointer;
+  background: #000000;
+  color:red;
+}
+
+#hindi
+ {
+  text-align: center;
+  height: 35px;
+  margin-right: 0px;
+  background-color: #666666;
+  margin-bottom: 10px;
+  font-size: 30px;
+  border-radius: 2px;
+
+}
+
+#hindi:hover{ text-transform: uppercase;
+cursor: pointer;
+}
+
+iframe {
+  height: 200;
+  width: 300;
+  frameborder:0px;
+  display:inline;
+  margin-left: 20px;
+
+}
+
+iframe:hover {
+  box-shadow: 2px 2px 2px 2px red;
+}
+
